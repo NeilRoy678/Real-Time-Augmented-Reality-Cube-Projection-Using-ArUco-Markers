@@ -16,3 +16,7 @@ It manually handles camera calibration, pose estimation, and 3D projection using
 git clone https://github.com/your-username/aruco-cube-ar.git
 cd aruco-cube-ar
 ```
+
+```bash
+pip install -r requirements.txt
+```
