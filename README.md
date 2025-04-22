@@ -12,3 +12,7 @@ It manually handles camera calibration, pose estimation, and 3D projection using
 - [NumPy](https://numpy.org/)
 
 ---
+```bash
+git clone https://github.com/your-username/aruco-cube-ar.git
+cd aruco-cube-ar
+```
