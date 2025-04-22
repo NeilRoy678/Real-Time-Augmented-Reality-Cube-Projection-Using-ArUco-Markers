@@ -23,14 +23,14 @@ pip install -r requirements.txt
 
 ## Key Concepts Demonstrated
 
-    Real-time computer vision processing
+Real-time computer vision processing
 
-    Multi-marker AR detection and tracking
+Multi-marker AR detection and tracking
 
-    6-DOF pose estimation
+6-DOF pose estimation
 
-    Camera calibration (intrinsic matrix usage)
+Camera calibration (intrinsic matrix usage)
 
-    3D-to-2D projection transformations
+3D-to-2D projection transformations
 
-    Manual AR rendering without game engines
+Manual AR rendering without game engines
