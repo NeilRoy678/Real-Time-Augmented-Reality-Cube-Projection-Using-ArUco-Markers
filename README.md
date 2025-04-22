@@ -20,3 +20,17 @@ cd aruco-cube-ar
 ```bash
 pip install -r requirements.txt
 ```
+
+## Key Concepts Demonstrated
+
+    Real-time computer vision processing
+
+    Multi-marker AR detection and tracking
+
+    6-DOF pose estimation
+
+    Camera calibration (intrinsic matrix usage)
+
+    3D-to-2D projection transformations
+
+    Manual AR rendering without game engines
