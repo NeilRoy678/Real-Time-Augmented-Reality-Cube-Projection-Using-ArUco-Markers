@@ -33,4 +33,8 @@ Camera calibration (intrinsic matrix usage)
 
 3D-to-2D projection transformations
 
-Manual AR rendering without game engines
+Manual AR r
+
+https://github.com/user-attachments/assets/f4a73d68-a375-4113-90de-9dccbface4d6
+
+endering without game engines
